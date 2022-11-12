@@ -11,4 +11,3 @@
 - TypeDi
 - Jest
 - Swagger
-- 
